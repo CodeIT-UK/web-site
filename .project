@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>codeit-uk web-site</name>
-	<comment>add comment</comment>
+	<name>codeit-uk web-site 1</name>
+	<comment>add comment 2</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -16,4 +16,5 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	
 </projectDescription>
